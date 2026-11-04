@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nebur84
 - 👀 I’m interested in linux source code and bash scripting
-- 🌱 I’m currently learning to Kryterion and Pearson Vue
+- 🌱 I’m currently learning to PenTest and Python
 - 💞️ I’m looking to collaborate on Red Hat develompment source code
 - 📫 How to reach me .. nothing
 
